@@ -29,6 +29,7 @@ contourpy==1.2.1
 cryptography==3.4.8
 cycler==0.12.1
 cymem==2.0.8
+Cython==0.29.36
 dbus-python==1.2.18
 debugpy==1.8.2
 decorator==5.1.1
@@ -219,4 +220,3 @@ wrapt==1.16.0
 xdg==5
 xkit==0.0.0
 zipp==1.0.0
-PyYAML>=6.0
