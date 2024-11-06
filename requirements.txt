@@ -86,7 +86,6 @@ keras==3.6.0
 keyring==23.5.0
 kiwisolver==1.4.5
 langcodes==3.4.1
-language-selector==0.1
 language_data==1.2.0
 launchpadlib==1.10.16
 lazr.restfulclient==0.14.4
