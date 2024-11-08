@@ -224,6 +224,4 @@ websocket-client==1.8.0
 Werkzeug==3.1.1
 wordcloud==1.9.3
 wrapt==1.16.0
-xdg==5
-xkit==0.0.0
 zipp==1.0.0
